@@ -1,0 +1,7 @@
+Reflection Questions
+1. it picks one random item from a list
+2. it gives you a random whole number between 2 numbers you choose
+3. Lists let you store a lot of possible options in one place
+4. it makes the code organized, reusable, and easier to update.  
+5. Force ability
+6. the mandalorian one
